@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FunPrimeTask</string>
+
+    <string name="string_next">Next</string>
+    <string name="string_sharing">Share</string>
+    <string name="string_first_fragment">First Fragment</string>
+
+    <!-- test app id-->
+    <string name="appId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="bnr">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_ad_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>

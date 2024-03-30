@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AdmobBanner">
+
+        <attr name="AdMobBannerID" format="string"></attr>
+
+    </declare-styleable>
+    <declare-styleable name="AdmobNative">
+
+        <attr name="nativeID" format="string"></attr>
+        <attr name="showMedimAd" format="boolean"></attr>
+
+    </declare-styleable>
+
+</resources>

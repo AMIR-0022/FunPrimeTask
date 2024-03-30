@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:shimmer_auto_start="true"
+        android:id="@+id/shimmer">
+
+        <com.google.android.ads.nativetemplates.TemplateView
+            android:id="@+id/myNativeTemplate"
+            app:gnt_template_type="@layout/gnt_medium_template_view"
+            android:layout_width="match_parent"
+            android:visibility="visible"
+            android:layout_height="wrap_content"/>
+
+
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+</RelativeLayout>
